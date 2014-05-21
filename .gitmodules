@@ -1,3 +1,3 @@
 [submodule "syncnapsis"]
-  path = syncnapsis
-  url = https://github.com/ultimate/syncnapsis.git
+	path = syncnapsis
+	url = https://github.com/ultimate/syncnapsis
